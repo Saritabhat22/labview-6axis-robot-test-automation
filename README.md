@@ -25,8 +25,8 @@ The existing manual test process was time-consuming and prone to inconsistencies
 
 ## Notes on This Repository
 LabVIEW project files (.vi, .lvproj) are graphical/binary in nature, so GitHub cannot render meaningful line-by-line diffs the way it does for text-based code. This repository is intended primarily as a **documented showcase** of the project — screenshots, block diagram exports (as images/PDFs), and this README are provided to give viewers a clear picture of the system's design and impact, even without opening LabVIEW itself.
-positions_sample.xlsx` contains best-focus (X, Y, Z) positions
-for a 4x4 laser matrix (L1–L16) across multiple test runs, used to analyze
+##cam_focus_positions_sample.xlsx` contains best-focus (X, Y, Z) positions
+for a 4x4 matrix (L1–L16) across multiple test runs, used to analyze
 positional consistency and repeatability.
 
 ## Contact
