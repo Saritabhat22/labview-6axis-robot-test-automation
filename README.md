@@ -16,7 +16,7 @@ The existing manual test process was time-consuming and prone to inconsistencies
 - LabVIEW (application development + GUI)
 - PCI cards (analog/digital I/O)
 - SQL Server (data logging)
-- 6-axis robotic controllers, PLCs, sensors (LVDT, load cells, proximity switches)
+- 6-axis robotic controllers, proximity switches.
 
 ## Outcome
 - Reduced manual testing time by 50–70%
