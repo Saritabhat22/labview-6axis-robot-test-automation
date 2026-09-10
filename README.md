@@ -30,4 +30,6 @@ for a 4x4 matrix (L1–L16) across multiple test runs, used to analyze
 positional consistency and repeatability.
 
 ## Contact
-*(Optional: link to LinkedIn or email for questions about this project)*
+https://www.linkedin.com/in/sarita-bhat-b2a85b14
+# Github
+https://www.github.com/Saritabhat22
